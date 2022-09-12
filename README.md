@@ -9,5 +9,7 @@
 # 2. A TodoList class:
 #Represents a collection of Todo objects. You can perfom typical collection-oriented actions on a TodoList object, including iteration and selection
 
+# Testing: 
+#A suite of Jest tests are located in the test folder
  
 
